@@ -1,0 +1,19 @@
+{
+  "theseus_base_url": "https://mail.hackclub.com",
+  "api_key": "YOUR_API_KEY_HERE",
+  "tags": ["mail-cannon"],
+  "skus": [
+    "Sti/Ev/CF/1st",
+    "Swa/Shirt/CF/M",
+    "Swa/Shirt/CF/L",
+    "Swa/Shirt/CF/XL",
+    "Swa/Shirt/CF/S",
+    "Pri/Ath/4x6/Slp",
+    "Pri/Fla/4x6/1st",
+    "Pri/Bob/11x/Aco",
+    "Pri/Spr/11x/Lar",
+    "Sti/Sti/Coc/1st",
+    "Sti/Sti/Fla/Top",
+    "Pri/Let/Abo/Tee"
+  ]
+}

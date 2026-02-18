@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs and results
+logs/
+
+# Reports
+report_*.csv
+
+# Sensitive config (contains API key)
+config.json
+
+# Batch data (contains PII)
+batch_*.csv
